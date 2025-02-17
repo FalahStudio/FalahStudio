@@ -1,7 +1,7 @@
-# 🏢 Falah Studio  
+## 🏢 Falah Studio  
 **Innovating the Future with Technology**  
 
-🚀 **We specialize in:**  
+## 🚀 **We specialize in:**  
 - Web & Mobile Development  
 - UI/UX Design
 
