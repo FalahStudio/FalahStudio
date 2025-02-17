@@ -7,7 +7,6 @@
 
 ## 📫 Get in Touch  
 - 📩 **Email:** [falahstd@gmail.com](mailto:falahstd@gmail.com)  
-- 🌐 **Website:** [www.falahstudio.com](https://www.falahstudio.com)  
 - 📸 **Instagram:** [@falahstudio](https://www.instagram.com/falahstudio)  
 - 🔗 **LinkedIn:** [Falah Studio](https://www.linkedin.com/company/falah-studio/)  
 - 🎨 **Dribbble:** [Falah Studio](https://dribbble.com/falahstudio)  
