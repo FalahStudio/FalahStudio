@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🏢 Falah Studio
+
+**Innovating the Future with Technology**
 
 <!--
-**FalahStudio/FalahStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Us  
+[Nama Perusahaan] adalah perusahaan yang bergerak di bidang **[bidang industri]**, menyediakan solusi teknologi terbaik untuk bisnis di seluruh dunia. Kami berfokus pada **[core expertise, misalnya: pengembangan perangkat lunak, AI, cloud solutions]** untuk menciptakan pengalaman digital yang inovatif dan efisien.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💡 What We Do  
+- 🔹 **Custom Software Development**  
+- 🔹 **Open Source Contributions**  
+- 🔹 **Scalable & Secure Solutions**  
 -->
+
+## 📫 Get in Touch  
+<!--
+🌐 **Website:** [yourwebsite.com] 
+🐦 **Twitter:** [@yourcompany]  
+-->
+📩 **Email:** [falahstd@gmail.com]  
+📸 **Instagram:** [instagram.com/falahstudio]  
+🔗 **LinkedIn:** [linkedin.com/company/falah-studio/]
+🎨 **Dribbble:** [dribbble.com/falahstudio]  
+📁 **Figma Community:** [figma.com/@falahstd]  
+
