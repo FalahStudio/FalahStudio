@@ -1,4 +1,4 @@
-# 🏢 Falah Studio
+## 🏢 Falah Studio
 
 **Innovating the Future with Technology**
 
@@ -18,8 +18,8 @@
 🐦 **Twitter:** [@yourcompany]  
 -->
 📩 **Email:** [falahstd@gmail.com]  
-📸 **Instagram:** [instagram.com/falahstudio]  
-🔗 **LinkedIn:** [linkedin.com/company/falah-studio/]
-🎨 **Dribbble:** [dribbble.com/falahstudio]  
-📁 **Figma Community:** [figma.com/@falahstd]  
+📸 **Instagram:** [https://www.instagram.com/falahstudio]  
+🔗 **LinkedIn:** [https://www.linkedin.com/company/falah-studio/]
+🎨 **Dribbble:** [https://dribbble.com/falahstudio]  
+📁 **Figma Community:** [https://www.figma.com/@falahstd]  
 
