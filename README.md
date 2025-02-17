@@ -1,25 +1,16 @@
-## 🏢 Falah Studio
+# 🏢 Falah Studio  
+**Innovating the Future with Technology**  
 
-**Innovating the Future with Technology**
-
-<!--
-## 🚀 About Us  
-[Nama Perusahaan] adalah perusahaan yang bergerak di bidang **[bidang industri]**, menyediakan solusi teknologi terbaik untuk bisnis di seluruh dunia. Kami berfokus pada **[core expertise, misalnya: pengembangan perangkat lunak, AI, cloud solutions]** untuk menciptakan pengalaman digital yang inovatif dan efisien.
-
-## 💡 What We Do  
-- 🔹 **Custom Software Development**  
-- 🔹 **Open Source Contributions**  
-- 🔹 **Scalable & Secure Solutions**  
--->
+🚀 **We specialize in:**  
+- Web & Mobile Development  
+- UI/UX Design
 
 ## 📫 Get in Touch  
-<!--
-🌐 **Website:** [yourwebsite.com] 
-🐦 **Twitter:** [@yourcompany]  
--->
-📩 **Email:** [falahstd@gmail.com]  
-📸 **Instagram:** [https://www.instagram.com/falahstudio]  
-🔗 **LinkedIn:** [https://www.linkedin.com/company/falah-studio/]
-🎨 **Dribbble:** [https://dribbble.com/falahstudio]  
-📁 **Figma Community:** [https://www.figma.com/@falahstd]  
+- 📩 **Email:** [falahstd@gmail.com](mailto:falahstd@gmail.com)  
+- 🌐 **Website:** [www.falahstudio.com](https://www.falahstudio.com)  
+- 📸 **Instagram:** [@falahstudio](https://www.instagram.com/falahstudio)  
+- 🔗 **LinkedIn:** [Falah Studio](https://www.linkedin.com/company/falah-studio/)  
+- 🎨 **Dribbble:** [Falah Studio](https://dribbble.com/falahstudio)  
+- 📁 **Figma Community:** [Falah Studio](https://www.figma.com/@falahstd)  
 
+📍 **Location:** Malang, Indonesia  
